@@ -1,7 +1,11 @@
 ################### ANALISE DE CLUSTER #########################################################
-# Curso de Análise de Cluster no R 4.0 
-
+# Curso de Análise de Cluster no R 4.1 
+# Aluno: Mário Diego Rocha Valente
+# Sistema de Informação/ UFPA
 ##########################################################################################################
+
+
+
 
 ###########################################################################################################
 ############### Análise de Cluster/Agrupamento ############################################################
@@ -71,7 +75,7 @@ kmeans(x, centers, iter.max=10, nstart=1)
 
 ############### Instalacao de Pacotes #################################################################
 
-install.packages(c("devtools", "tidverse", "ggplot2", "factoextra", "cluster", "survminer", "ggcorplot"))
+install.packages(c("devtools", "tidverse", "ggplot2", "factoextra", "cluster", "survminer", "ggcorrplot"))
 ##########################################################################################################
 
 ############### Carregamento de Pacotes #################################################################
